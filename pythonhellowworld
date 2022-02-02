@@ -2,6 +2,6 @@ print ("hello World")
 
 
 
-x = "hi! Batman"
+x = "hi! Python, "
 print (x)
 print ("x")   #this and above command is different cuzz of ""
