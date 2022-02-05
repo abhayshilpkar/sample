@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, Abhay!
+- script: echo Hello, Abhay! Welcome to NTS
   displayName: 'Run a one-line script'
 
 - script: |
